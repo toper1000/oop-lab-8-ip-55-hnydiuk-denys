@@ -1,0 +1,11 @@
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\bin\Debug\net8.0\RealEstateAgency.Domain.deps.json
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\bin\Debug\net8.0\RealEstateAgency.Domain.dll
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\bin\Debug\net8.0\RealEstateAgency.Domain.pdb
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.AssemblyInfoInputs.cache
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.AssemblyInfo.cs
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.dll
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\refint\RealEstateAgency.Domain.dll
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.pdb
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\ref\RealEstateAgency.Domain.dll
