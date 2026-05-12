@@ -9,3 +9,4 @@ D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\De
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\refint\RealEstateAgency.Domain.dll
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.pdb
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\ref\RealEstateAgency.Domain.dll
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.Domain\obj\Debug\net8.0\RealEstateAgency.Domain.sourcelink.json

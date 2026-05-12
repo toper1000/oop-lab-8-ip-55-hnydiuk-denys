@@ -16,3 +16,4 @@ D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.ConsoleApp\ob
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.ConsoleApp\obj\Debug\net8.0\RealEstateAgency.ConsoleApp.pdb
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.ConsoleApp\obj\Debug\net8.0\RealEstateAgency.ConsoleApp.genruntimeconfig.cache
 D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.ConsoleApp\obj\Debug\net8.0\ref\RealEstateAgency.ConsoleApp.dll
+D:\Desktop\Studying_KPI\OOP\lab8\RealEstateAgency\RealEstateAgency.ConsoleApp\obj\Debug\net8.0\RealEstateAgency.ConsoleApp.sourcelink.json
